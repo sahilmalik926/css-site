@@ -1,0 +1,103 @@
+body{
+  background-color: #c7ffd8;
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+  position: relative;
+}
+
+h1{
+margin:0 auto;
+font-family: papyrus,fantasy;
+font-size: 70px;
+color: #6495ED;
+top: 20px;}
+
+h2{font-family: anton;
+font-size: 40px;
+color: #66BFBF;
+}
+
+h3{font-family: reggae one;
+color: #11999E;}
+
+hr {
+  border: dotted darkblue 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 80px auto 40px;
+}
+
+.top-container{
+  background-color:#b0c4de;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.middle-container {
+}
+
+.bottom-container{
+  background-color: #2f4f4f;
+  }
+
+.tech{font-family: cursive;
+margin: 0 auto;
+padding: 0;
+font-weight: normal;
+top: 20px;}
+
+
+
+
+
+.bottom-cloud{position:absolute;
+
+}
+
+.top-cloud{position: absolute;
+right: 300px;
+top: 10px;
+}
+
+
+.pp{width:15%;
+height:200px;
+margin-left: 5px;
+margin-top: 5px;
+border-radius: 50%;
+position: relative;
+top: 5px;
+left: 5px;
+position: fixed;}
+
+.skill-row{
+  width: 50%;
+  margin: 40px auto;
+  text-align: left;
+}
+
+.leader{width:200px;
+height:200px;
+float: left;
+padding:10px 30px;
+}
+.coding{width:200px;
+height:200px;
+float: right;
+padding:0 30px;
+}
+
+.lc{padding: 20px 20px 60px;}
+.cc{padding: 80px auto 0;}
+.contact-me{width: 40%;
+  margin: 20px auto 20px;
+}
+
+.footer-link{padding: 0 30px;
+color: #191970;
+font-size: 25px;}
+
+.footer-link{text-decoration: underline;}
+.cr{padding-bottom: 0;
+margin-bottom: 0;}
